@@ -42,7 +42,7 @@
 ## 🎯 How to Use
 
 1. Clone the repository:  
-   '''bash git clone https://github.com/your-username/event-center.git'''
+   '''bash git clone https://github.com/ksol17/Frameworks_and_JavaScript_project.git'''
 2. Open index.html in your browser.
 3. Explore the dashboard, calendar, and contact features.
 4. Use dev tools to test the responsiveness on various devices.
@@ -52,4 +52,5 @@
 ## 👩‍💻 Credits
 Karla Pauta
 Passionate about building beautiful, functional web experiences!
+---
 📸 Images sourced from Unsplash & iStock.

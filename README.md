@@ -49,8 +49,11 @@
 
 ---
 
-## 👩‍💻 Credits
-Karla Pauta
+##  Credits
+📸 Images sourced from Unsplash & iStock.
+---
+
+## Created by 
+👩‍💻 Karla Pauta
 Passionate about building beautiful, functional web experiences!
 ---
-📸 Images sourced from Unsplash & iStock.

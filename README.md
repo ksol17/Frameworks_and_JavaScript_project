@@ -51,7 +51,6 @@
 
 ##  Credits
 📸 Images sourced from Unsplash & iStock.
----
 
 ## Created by 
 👩‍💻 Karla Pauta |

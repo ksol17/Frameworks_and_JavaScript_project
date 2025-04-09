@@ -54,6 +54,6 @@
 ---
 
 ## Created by 
-👩‍💻 Karla Pauta
+👩‍💻 Karla Pauta |
 Passionate about building beautiful, functional web experiences!
 
